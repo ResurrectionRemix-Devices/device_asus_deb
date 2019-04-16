@@ -10,5 +10,11 @@
     "repository": "followmsi/android_vendor",
     "target_path": "vendor/asus",
     "branch": "flo-deb-lineage-16.0"
-  }  
+  },
+  {
+    "remote": "rr-d",
+    "repository": "device_asus_flo",
+    "target_path": "device_asus_flo",
+    "branch": "pie"
+  }
 ]
