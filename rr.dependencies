@@ -14,7 +14,7 @@
   {
     "remote": "rr-d",
     "repository": "device_asus_flo",
-    "target_path": "device_asus_flo",
+    "target_path": "device/asus/flo",
     "branch": "pie"
   }
 ]
